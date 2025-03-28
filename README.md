@@ -16,3 +16,16 @@ Note 3: Run the frontend on port 53660 or change intances where port 5366 for th
 ![image](https://github.com/user-attachments/assets/251a6633-9547-42f5-b21c-98fd5a9ea5e5)
 
 ![image](https://github.com/user-attachments/assets/90b71b89-605e-4865-9988-c6f250f408cb)
+
+![image](https://github.com/user-attachments/assets/9b2863e9-66db-4992-9143-6a8526fb749d)
+
+![image](https://github.com/user-attachments/assets/3cd038e0-a475-4d88-9b9d-16d77b4b814d)
+
+![image](https://github.com/user-attachments/assets/e3b9ccf8-df6e-432a-9e53-228dcb77495a)
+
+![image](https://github.com/user-attachments/assets/b9d06214-f8c5-4297-ac80-785f7eae774d)
+
+
+
+
+
