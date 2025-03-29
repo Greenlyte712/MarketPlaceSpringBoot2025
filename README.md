@@ -1,5 +1,5 @@
 # MarketPlaceSpringBoot2025
-Buyer and Seller app that is better than Thumbtack - Spring Boot backend and Flutter frontend
+Buyer and Seller app that lets buyers find sellers, essentially a marketplace - Spring Boot backend and Flutter frontend
 
 Screenshots of the frontend are shown first, then some code screenshots after.
 
